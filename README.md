@@ -14,7 +14,6 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 - Colocando em prática e evoluindo em containerização com Docker
 - Usando Git no dia a dia de desenvolvimento
 - Já desenvolvi páginas e projetos básicos com HTML e CSS para prática e fundamentos de front-end
-- Evoluindo em arquitetura de sistemas e DevOps
 - Estudando inglês para carreira em tecnologia
 
 ---
