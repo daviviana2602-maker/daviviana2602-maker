@@ -67,7 +67,7 @@ API backend de um sistema de delivery com foco em escalabilidade e boas prática
 **Testes:**
 - Testes de integração utilizando JavaScript
 
-🔗 Repositório: [https://github.com/daviviana2602-maker/NOME-DO-REPO](https://github.com/daviviana2602-maker/fastapi-delivery)
+🔗 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
 
 ---
 
