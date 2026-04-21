@@ -10,9 +10,10 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 
 - Desenvolvedor backend focado em Python
 - Construindo APIs com FastAPI
-- Trabalhando com PostgreSQL e Docker
+- Trabalhando com PostgreSQL + ORM (SQLAlchemy) + migrations (Alembic)
+- Colocando em prática e evoluindo em containerização com Docker
 - Usando Git no dia a dia de desenvolvimento
-- Já desenvolvi páginas com HTML e CSS
+- Já desenvolvi páginas e projetos básicos com HTML e CSS para prática e fundamentos de front-end
 - Evoluindo em arquitetura de sistemas e DevOps
 - Estudando inglês para carreira em tecnologia
 
@@ -44,17 +45,17 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 
 ## Objetivos
 
-- Me tornar um engenheiro backend forte
+- Me tornar um engenheiro backend forte e consistente
 - Dominar FastAPI e construção de APIs escaláveis
 - Melhorar habilidades em DevOps (Docker, deploy, CI/CD)
-- Aprender cloud (AWS ou similares)
-- Criar projetos reais em produção
-- Evoluir de júnior para pleno
+- Aprender cloud (AWS)
+- Construir e colocar projetos reais em produção
+- Evoluir constantemente
 
 ---
 
 ## Contato
 
 - GitHub: https://github.com/daviviana2602-maker
-- LinkedIn: coloque seu link aqui
-- Email: coloque seu email aqui
+- LinkedIn: https://www.linkedin.com/in/davi-viana-34a19b300/
+- Email: daviviana2602@gmail.com
