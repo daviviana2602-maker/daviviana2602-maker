@@ -43,6 +43,34 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 
 ---
 
+## 🚀 Projetos em destaque
+
+### 🍔 Delivery API (Projeto Principal)
+
+API backend de um sistema de delivery com foco em escalabilidade e boas práticas.
+
+**Stack:**
+- Python + FastAPI
+- PostgreSQL
+- Docker
+- Autenticação com JWT
+- Hash de senhas e controle de usuários
+- Estrutura de API REST
+
+**Funcionalidades:**
+- Ambiente containerizado com Docker e versionamento com Alembic.
+- Segurança com Autenticação JWT, permissões RBAC e hashing de senhas com Argon2.
+- CRUD completo de usuários: Fluxos de edição de perfil (nome, e-mail, senha) e exclusão de conta.
+- Arquitetura modular e desenvolvimento de testes com Javascript.
+- Fluxo de negócio: Carrinho temporário e estados de pedidos (PENDENTE → CONCLUÍDO/CANCELADO).
+
+**Testes:**
+- Testes de integração utilizando JavaScript
+
+🔗 Repositório: https://github.com/daviviana2602-maker/NOME-DO-REPO
+
+---
+
 ## Objetivos
 
 - Me tornar um engenheiro backend forte e consistente
