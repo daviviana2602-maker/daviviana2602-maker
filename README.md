@@ -72,7 +72,7 @@ API backend de um sistema de delivery com foco em escalabilidade e boas prática
 
 ## Objetivos
 
-- Me tornar um engenheiro backend forte e consistente
+- Me tornar um engenheiro backend cada vez mais forte e consistente
 - Dominar FastAPI e construção de APIs escaláveis
 - Melhorar habilidades em DevOps (Docker, deploy, CI/CD)
 - Aprender cloud (AWS)
