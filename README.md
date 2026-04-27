@@ -12,6 +12,7 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 - Construindo APIs com FastAPI
 - Trabalhando com PostgreSQL + ORM (SQLAlchemy) + migrations (Alembic)
 - Colocando em prática e evoluindo em containerização com Docker
+- Realizando testes com Pytest para garantia de qualidade 
 - Usando Git no dia a dia de desenvolvimento
 - Já desenvolvi páginas e projetos básicos com HTML e CSS para prática e fundamentos de front-end
 - Estudando inglês para carreira em tecnologia
