@@ -14,7 +14,7 @@ Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas rea
 - Realizando testes com Pytest para garantia de qualidade 
 - Usando Git no dia a dia de desenvolvimento
 - Conhecimento em HTML/CSS e JavaScript para construção de interfaces funcionais e integração completa com APIs
-- Estudando inglês para carreira em tecnologia
+- Estudando inglês para carreira em tecnologia (B2)
 
 ---
 
