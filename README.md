@@ -29,12 +29,6 @@ Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas rea
 
 ---
 
-## Estatísticas do GitHub
-
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=tokyonight)
-
----
-
 ## Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight)
