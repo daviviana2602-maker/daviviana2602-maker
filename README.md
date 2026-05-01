@@ -39,7 +39,7 @@ Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas rea
 
 ### 🍔 Delivery API (Projeto Principal)
 
-API backend de um sistema de delivery com foco em escalabilidade e boas práticas.
+Sistema backend completo de delivery inspirado em plataformas reais, com autenticação, controle de pedidos e painel administrativo, incluindo integração com frontend simples para simulação de fluxo completo.
 
 **Stack:**
 - Python + FastAPI
@@ -49,6 +49,7 @@ API backend de um sistema de delivery com foco em escalabilidade e boas prática
 - Hash de senhas e controle de usuários
 - Estrutura de API REST
 - Garantia de qualidade com Pytest
+- Frontend funcional com Html/Css/JavaScript
 
 **Funcionalidades:**
 - Ambiente containerizado com Docker e versionamento com Alembic.
@@ -61,17 +62,6 @@ API backend de um sistema de delivery com foco em escalabilidade e boas prática
 - Testes de todos os endpoints utilizando Pytest
 
 🔗 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
-
----
-
-## Objetivos
-
-- Me tornar um engenheiro backend cada vez mais forte e consistente
-- Dominar FastAPI e construção de APIs escaláveis
-- Melhorar habilidades em DevOps (Docker, deploy, CI/CD)
-- Aprender cloud (AWS)
-- Construir e colocar projetos reais em produção
-- Evoluir constantemente
 
 ---
 
