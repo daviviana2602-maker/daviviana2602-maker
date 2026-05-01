@@ -49,7 +49,7 @@ Sistema backend completo de delivery inspirado em plataformas reais, com autenti
 - Hash de senhas e controle de usuários
 - Estrutura de API REST
 - Garantia de qualidade com Pytest
-- Frontend funcional com Html/Css/JavaScript
+- Frontend funcional com HTML/CSS/JavaScript
 
 **Funcionalidades:**
 - Ambiente containerizado com Docker e versionamento com Alembic.
