@@ -1,20 +1,19 @@
 <h1 align="center">Olá, eu sou o Davi 👋</h1>
 
 <p align="center">
-Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
+Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas reais com regras de negócio
 </p>
 
 ---
 
 ## Sobre mim
 
-- Desenvolvedor backend focado em Python
 - Construindo APIs com FastAPI
 - Trabalhando com PostgreSQL + ORM (SQLAlchemy) + migrations (Alembic)
 - Colocando em prática e evoluindo em containerização com Docker
 - Realizando testes com Pytest para garantia de qualidade 
 - Usando Git no dia a dia de desenvolvimento
-- Já desenvolvi páginas e projetos básicos com HTML e CSS para prática e fundamentos de front-end
+- Conhecimento em HTML/CSS e JavaScript para construção de interfaces funcionais e integração completa com APIs
 - Estudando inglês para carreira em tecnologia
 
 ---
@@ -26,8 +25,7 @@ Desenvolvedor Backend focado em Python, APIs e sistemas escaláveis
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
