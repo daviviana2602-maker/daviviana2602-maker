@@ -29,12 +29,6 @@ Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas rea
 
 ---
 
-## Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight&count_private=true&cache_seconds=1800)
-
----
-
 ## 🚀 Projetos em destaque
 
 ### 🍔 Delivery API (Projeto Principal)
