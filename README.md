@@ -1,24 +1,22 @@
 <h1 align="center">Olá, eu sou o Davi 👋</h1>
 
 <p align="center">
-Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas reais com regras de negócio
+Backend Developer focado em Python, FastAPI e construção de sistemas reais em produção
 </p>
 
 ---
 
-## Sobre mim
+## ⚙️ Sobre mim
 
-- Construindo APIs com FastAPI
-- Trabalhando com PostgreSQL + ORM (SQLAlchemy) + migrations (Alembic)
-- Colocando em prática e evoluindo em containerização com Docker
-- Realizando testes com Pytest para garantia de qualidade 
-- Usando Git no dia a dia de desenvolvimento
-- Conhecimento em HTML/CSS e JavaScript para construção de interfaces funcionais e integração completa com APIs
-- Estudando inglês para carreira em tecnologia (B2)
+Desenvolvedor Backend focado em Python e construção de APIs REST com FastAPI.
+
+Atualmente desenvolvo sistemas completos com arquitetura real de produção, incluindo autenticação, controle de acesso, banco de dados relacional, testes automatizados e deploy em cloud.
+
+Tenho experiência prática construindo aplicações full stack com integração entre backend, frontend e infraestrutura.
 
 ---
 
-## Stack atual
+## 🧠 Stack atual
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -29,38 +27,55 @@ Desenvolvedor Backend focado em Python, construção de APIs REST e sistemas rea
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projeto principal (em produção)
 
-### 🍔 Delivery API (Projeto Principal)
+### 🍔 Delivery System API
 
-Sistema backend completo de delivery inspirado em plataformas reais, com autenticação, controle de pedidos e painel administrativo, incluindo integração com frontend simples para simulação de fluxo completo.
+Sistema full stack de delivery construído do zero com foco em arquitetura backend real e deploy em ambiente cloud.
 
-**Stack:**
-- Python + FastAPI
-- PostgreSQL
-- Docker
-- Autenticação com JWT
-- Hash de senhas e controle de usuários
-- Estrutura de API REST
-- Garantia de qualidade com Pytest
-- Frontend funcional com HTML/CSS/JavaScript
+### 🧱 Arquitetura
+- Backend em FastAPI
+- Banco PostgreSQL (Supabase)
+- ORM SQLAlchemy + Alembic (migrations)
+- Containerização com Docker
+- Frontend simples em HTML/CSS/JavaScript para integração completa
+- Deploy em produção (Railway + Vercel)
 
-**Funcionalidades:**
-- Ambiente containerizado com Docker e versionamento com Alembic.
-- Segurança com Autenticação JWT, permissões RBAC e hashing de senhas com Argon2.
-- CRUD completo de usuários: Fluxos de edição de perfil (nome, e-mail, senha) e exclusão de conta.
-- Arquitetura modular e desenvolvimento de testes com Pytest.
-- Fluxo de negócio: Carrinho temporário e estados de pedidos (PENDENTE → CONCLUÍDO/CANCELADO).
+### 🔐 Segurança e autenticação
+- JWT Authentication
+- Controle de acesso (RBAC: usuário, admin e ownership)
+- Hash de senhas com Argon2
 
-**Testes:**
-- Testes de todos os endpoints utilizando Pytest
+### ⚙️ Funcionalidades
+- CRUD completo de usuários (criação, edição de perfil e exclusão)
+- Fluxo completo de pedidos (criação, edição, conclusão e cancelamento)
+- Carrinho temporário com gerenciamento de itens
+- Painel administrativo para gestão de usuários e pedidos
+
+### 🧪 Qualidade e testes
+- 23 testes automatizados com Pytest (unitários e integração)
+- Validação de regras de negócio críticas
+- Estrutura preparada para crescimento e manutenção
+
+### 📦 Evolução do projeto
+- +100 commits ao longo do desenvolvimento
+- 3 ambientes estruturados:
+  - desenvolvimento (Docker)
+  - testes isolados
+  - produção em cloud
 
 🔗 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
 
 ---
 
-## Contato
+## 🌍 Idiomas
+- Português (nativo)
+- Inglês (B2 em evolução)
 
-- GitHub: https://github.com/daviviana2602-maker
-- LinkedIn: https://www.linkedin.com/in/davi-viana-34a19b300/
-- Email: daviviana2602@gmail.com
+---
+
+## 🎯 Foco atual
+- Backend com Python e FastAPI
+- Arquitetura de sistemas escaláveis
+- Boas práticas de engenharia de software
+- Preparação para vagas backend júnior
