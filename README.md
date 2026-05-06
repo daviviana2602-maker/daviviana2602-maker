@@ -65,6 +65,7 @@ Sistema full stack de delivery construído do zero com foco em arquitetura backe
   - produção em cloud
 
 🔗 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
+🔗 Link do projeto em produção: https://lnkd.in/dvXsAt-K
 
 ---
 
