@@ -51,6 +51,7 @@ Sistema full stack de delivery construído do zero com foco em arquitetura backe
 - Fluxo completo de pedidos (criação, edição, conclusão e cancelamento)
 - Carrinho temporário com gerenciamento de itens
 - Painel administrativo para gestão de usuários e pedidos
+- Validação e recuperação de conta com envio de email via API do Resend
 
 ### 🧪 Qualidade e testes
 - 23 testes automatizados com Pytest (unitários e integração)
