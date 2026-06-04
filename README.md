@@ -72,7 +72,7 @@ Sistema full stack de delivery construído do zero com foco em arquitetura backe
 ---
 
 ### 📦 Evolução do projeto
-- +100 commits ao longo do desenvolvimento
+- +110 commits ao longo do desenvolvimento
 - 3 ambientes estruturados:
   - desenvolvimento (Docker)
   - testes isolados
