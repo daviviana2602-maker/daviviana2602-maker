@@ -87,7 +87,7 @@ Sistema full stack de delivery construído do zero com foco em arquitetura backe
 
 ## 🌍 Idiomas
 - Português (nativo)
-- Inglês (B2 em evolução)
+- Inglês (B1/B2 em evolução)
 
 ---
 
