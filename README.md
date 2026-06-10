@@ -1,98 +1,111 @@
-<h1 align="center">Olá, eu sou o Davi 👋</h1>
+<h1 align="center">👋 Olá, eu sou o Davi</h1>
 
 <p align="center">
-Backend Developer focado em Java (Spring Boot) e Python (FastAPI), construindo sistemas reais com arquitetura de produção
+Backend Developer (Java | Spring Boot | Python | FastAPI)<br/>
+Construindo sistemas reais com foco em arquitetura, segurança e escalabilidade
+</p>
+
+<p align="center">
+  <a href="https://github.com/daviviana2602-maker">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:daviviana2602@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://linkedin.com/in/davi-viana-34a19b300/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-## ⚙️ Sobre mim
+## 🧠 Sobre mim
 
-Desenvolvedor Backend focado em Java e Python, com experiência na construção de APIs REST completas utilizando Spring Boot e FastAPI.
+Sou desenvolvedor backend focado em construir APIs robustas e sistemas reais de produção.
 
-Atualmente desenvolvo sistemas com arquitetura real de produção, incluindo autenticação, controle de acesso, banco de dados relacional, testes automatizados e deploy em cloud.
+Tenho experiência prática com:
+- Autenticação e autorização (JWT + RBAC)
+- Arquitetura em camadas e boas práticas de engenharia
+- Bancos relacionais (PostgreSQL)
+- Testes automatizados
+- Deploy em cloud com Docker
 
-Tenho experiência prática construindo aplicações full stack com integração entre backend, frontend e infraestrutura.
+Meu foco atual é evoluir como backend engineer em ambientes de produção reais.
 
 ---
 
-## 🧠 Stack atual
+## ⚙️ Stack
 
+**Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
+**Banco de Dados**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge)
+
+**Infra & Tools**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 🚀 Projeto principal (em produção)
+## 🚀 Projetos em destaque
 
-### 🍔 Delivery System API
+### 🍔 Delivery System API (Produção)
 
-Sistema full stack de delivery construído do zero com foco em arquitetura backend real e deploy em ambiente cloud.
+Sistema completo de delivery com arquitetura real de backend.
 
----
+**🔗 Links**
+- 🔥 [Projeto em produção](https://vossodelivery.com.br/)
+- 💻 [Repositório](https://github.com/daviviana2602-maker/fastapi-delivery)
 
-### 🧱 Arquitetura
-- Backend em FastAPI
-- Banco PostgreSQL (Supabase)
-- ORM SQLAlchemy + Alembic (migrations)
-- Containerização com Docker
-- Frontend simples em HTML/CSS/JavaScript para integração completa
+**⚙️ Stack**
+FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker • Pytest
+
+**📌 Destaques**
+- JWT Authentication + RBAC (user/admin/ownership)
+- Argon2 para hashing de senhas
+- CRUD completo de usuários e pedidos
+- Carrinho de compras com estado
+- Envio de e-mails (Resend API)
+- 23 testes automatizados (unit + integration)
 - Deploy em produção (Railway + Vercel)
 
 ---
 
-### 🔐 Segurança e autenticação
-- JWT Authentication
-- Controle de acesso (RBAC: usuário, admin e ownership)
-- Hash de senhas com Argon2
+### 🍰 CakeShop API (Java / Spring Boot)
 
----
+API de e-commerce focada em segurança e controle de acesso.
 
-### ⚙️ Funcionalidades
-- CRUD completo de usuários (criação, edição de perfil e exclusão)
-- Fluxo completo de pedidos (criação, edição, conclusão e cancelamento)
-- Carrinho temporário com gerenciamento de itens
-- Painel administrativo para gestão de usuários e pedidos
-- Validação e recuperação de conta com envio de email via API do Resend
+**🔗 Repositório**
+- 💻 https://github.com/daviviana2602-maker/CakeShop-API
 
----
+**⚙️ Stack**
+Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
 
-### 🧪 Qualidade e testes
-- 23 testes automatizados com Pytest (unitários e integração)
-- Validação de regras de negócio críticas
-- Estrutura preparada para crescimento e manutenção
-
----
-
-### 📦 Evolução do projeto
-- +110 commits ao longo do desenvolvimento
-- 3 ambientes estruturados:
-  - desenvolvimento (Docker)
-  - testes isolados
-  - produção em cloud
-
----
-
-- 🔗 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
-- 🔗 Link do projeto em produção: https://vossodelivery.com.br/
+**📌 Destaques**
+- Autenticação JWT com refresh token
+- RBAC (ADMIN / USER)
+- Controle de ownership de recursos
+- Carrinho de compras com enums de estado
+- BCrypt para hash de senhas
+- Arquitetura em camadas bem definida
 
 ---
 
 ## 🌍 Idiomas
+
 - Português (nativo)
-- Inglês (B1/B2 em evolução)
+- Inglês (B1/B2 – leitura técnica e evolução contínua)
 
 ---
 
-## 🎯 Foco atual
-- Backend com Java (Spring Boot) e Python (FastAPI)
+## 🎯 Objetivo atual
+
+- Backend Engineer (Java / Spring Boot ou Python)
 - Arquitetura de sistemas escaláveis
-- Boas práticas de engenharia de software
-- Preparação para vagas backend júnior
+- Ambientes de produção reais
+- Evoluir para nível pleno com base forte em engenharia de software
