@@ -108,3 +108,12 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
 - Arquitetura de sistemas escaláveis
 - Ambientes de produção reais
 - Evoluir para nível pleno com base forte em engenharia de software
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
