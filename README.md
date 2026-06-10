@@ -114,7 +114,6 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 <p align="center">
