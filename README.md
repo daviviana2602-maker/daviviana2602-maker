@@ -104,10 +104,10 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
 
 ## 🎯 Objetivo atual
 
-- Backend Engineer (Java / Spring Boot ou Python)
+- Backend Engineer (Java / Spring Boot e Python)
 - Arquitetura de sistemas escaláveis
 - Ambientes de produção reais
-- Evoluir para nível pleno com base forte em engenharia de software
+- Conseguir minha primeira oportunidade como Desenvolvedor Backend
 
 ---
 
