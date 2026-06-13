@@ -98,7 +98,7 @@ Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
 ## 🌍 Idiomas
 
 - Português (nativo)
-- Inglês (B1/B2 – leitura técnica e evolução contínua)
+- Inglês (B2 – leitura técnica e comunicação e em evolução contínua)
 
 ---
 
