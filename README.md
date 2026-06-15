@@ -77,21 +77,24 @@ FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker • Pytest
 
 ### 🍰 CakeShop API (Java / Spring Boot)
 
-API de e-commerce focada em segurança e controle de acesso.
+Backend de e-commerce desenvolvido para aplicar conceitos de segurança, arquitetura e desenvolvimento backend moderno.
 
 **🔗 Repositório**
 - 💻 https://github.com/daviviana2602-maker/CakeShop-API
 
 **⚙️ Stack**
-Java • Spring Boot • Spring Security • JWT • PostgreSQL • JPA
+Java 21 • Spring Boot • Spring Security • JWT • PostgreSQL • JPA • Flyway • Docker • Swagger
 
 **📌 Destaques**
-- Autenticação JWT com refresh token
-- RBAC (ADMIN / USER)
-- Controle de ownership de recursos
-- Carrinho de compras com enums de estado
-- BCrypt para hash de senhas
-- Arquitetura em camadas bem definida
+- Autenticação JWT + controle de acesso RBAC (ADMIN / USER)
+- Controle de ownership para proteção de recursos
+- Sistema de pedidos e carrinho de compras
+- BCrypt para hash seguro de senhas
+- Migrations versionadas com Flyway
+- Tratamento global de exceções e validação de DTOs
+- Documentação interativa com Swagger/OpenAPI
+- Containerização completa com Docker
+- Arquitetura em camadas (Controller, Service, Repository, DTOs e Security)
 
 ---
 
