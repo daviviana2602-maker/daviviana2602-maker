@@ -75,7 +75,7 @@ FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker • Pytest
 
 ---
 
-### 🍰 CakeShop API (Java / Spring Boot)
+### 🍰 CakeShop API 
 
 Backend de e-commerce desenvolvido para aplicar conceitos de segurança, arquitetura e desenvolvimento backend moderno.
 
