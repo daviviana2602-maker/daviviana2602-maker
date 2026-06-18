@@ -119,6 +119,3 @@ Java 21 • Spring Boot • Spring Security • JWT • PostgreSQL • JPA • F
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=daviviana2602-maker&theme=tokyonight&hide_border=true"/>
-</p>
