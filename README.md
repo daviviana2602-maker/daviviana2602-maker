@@ -67,7 +67,7 @@ Projeto privado desenvolvido em dupla.
 
 **Tecnologias**
 
-Java • Spring Boot • PostgreSQL • Docker • Flyway • GitHub Actions
+Java 21 • Spring Boot • PostgreSQL • Docker • Flyway • GitHub Actions • JUnit / Mockito
 
 **Destaques**
 
@@ -96,7 +96,7 @@ https://github.com/daviviana2602-maker/CakeShop-API
 
 **Tecnologias**
 
-Java 21 • Spring Boot • Spring Security • PostgreSQL • JPA • Flyway • Docker
+Java 21 • Spring Boot • PostgreSQL • JPA • Flyway • Docker • GitHub Actions • JUnit / Mockito
 
 **Destaques**
 
