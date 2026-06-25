@@ -1,8 +1,8 @@
 <h1 align="center">👋 Olá, eu sou o Davi</h1>
 
 <p align="center">
-Desenvolvedor Backend (Java | Spring Boot | Python | FastAPI)<br/>
-Construindo APIs REST seguras, organizadas e escaláveis
+Backend Developer focado em Java e Spring Boot<br/>
+Desenvolvimento de APIs REST seguras, testáveis e organizadas
 </p>
 
 <p align="center">
@@ -21,19 +21,19 @@ Construindo APIs REST seguras, organizadas e escaláveis
 
 ## 🧠 Sobre mim
 
-Sou desenvolvedor backend focado na construção de APIs REST e sistemas confiáveis utilizando boas práticas de engenharia.
+Desenvolvedor Backend com foco em construção de APIs REST utilizando Java, Spring Boot e bancos de dados relacionais.
 
-Tenho experiência prática com:
+Experiência prática com:
 
-- Autenticação e autorização (JWT + RBAC)
-- Controle de acesso e ownership de recursos
 - Arquitetura em camadas
-- Desenvolvimento orientado a testes
-- Bancos relacionais e modelagem de dados
-- Containerização com Docker
+- Autenticação e autorização com JWT
+- Controle de acesso RBAC e ownership
+- Regras de negócio e validações
+- Testes automatizados
+- Docker e ambientes containerizados
 - Documentação de APIs
 
-Atualmente foco em evoluir como Backend Developer, aprofundando arquitetura de sistemas, segurança e desenvolvimento de aplicações escaláveis.
+Busco evoluir continuamente em engenharia de software, segurança e construção de sistemas confiáveis.
 
 ---
 
@@ -50,110 +50,97 @@ Atualmente foco em evoluir como Backend Developer, aprofundando arquitetura de s
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
+### Qualidade e Ferramentas
 
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
 # 🚀 Projetos em destaque
 
-## 🍔 Delivery System API
+## 🧠 DeepKai — Backend API
 
-Sistema backend completo de delivery desenvolvido com FastAPI.
+Projeto privado desenvolvido em dupla.
 
-**🔗 Links**
+**Tecnologias**
 
-- 🌐 Produção: https://vossodelivery.com.br/
-- 💻 Repositório: https://github.com/daviviana2602-maker/fastapi-delivery
+Java • Spring Boot • PostgreSQL • Docker • Flyway • GitHub Actions
 
-**⚙️ Tecnologias**
+**Destaques**
 
-FastAPI • PostgreSQL • SQLAlchemy • Alembic • Docker • Pytest
+- API REST com arquitetura em camadas
+- Sistema anônimo de discussões com boards, threads e respostas
+- Autenticação e segurança com JWT
+- Hash seguro de senhas
+- Controle de permissões e regras de negócio
+- Sistema de moderação de conteúdo
+- Paginação e validações
+- Testes automatizados com JUnit 5 e Mockito
+- Pipeline CI com GitHub Actions
+- Documentação Swagger/OpenAPI
 
-**📌 Destaques**
-
-- API REST com FastAPI
-- Autenticação com JWT
-- Autorização com RBAC
-- Validação de ownership de recursos
-- Hashing seguro de senhas com Argon2
-- Gerenciamento de usuários e pedidos
-- Sistema de carrinho
-- Integração externa para envio de e-mails
-- Testes automatizados com Pytest
-- Deploy em produção (Railway + Vercel)
-- Separação de ambientes (dev/test/prod)
 
 ---
 
 ## 🍰 CakeShop API
 
-API REST backend desenvolvida com Java e Spring Boot, focada em segurança, organização e boas práticas de desenvolvimento.
+API REST backend desenvolvida com Java e Spring Boot.
 
 **🔗 Repositório**
 
-💻 https://github.com/daviviana2602-maker/CakeShop-API
+https://github.com/daviviana2602-maker/CakeShop-API
 
-**⚙️ Tecnologias**
 
-Java 21 • Spring Boot • Spring Security • JWT • PostgreSQL • JPA • Flyway • Docker • Swagger
+**Tecnologias**
 
-**📌 Destaques**
+Java 21 • Spring Boot • Spring Security • PostgreSQL • JPA • Flyway • Docker
 
-- Autenticação JWT com Spring Security
+**Destaques**
+
+- Autenticação JWT
 - Controle de acesso RBAC (ADMIN / USER)
-- Validação de ownership de recursos
-- Gerenciamento de usuários
-- Edição de perfil:
-  - Nome
-  - Email
-  - Senha
-- Gerenciamento administrativo:
-  - Banir usuários
-  - Desbanir usuários
-  - Promover usuários
-  - Rebaixar usuários
-- Gerenciamento de produtos
-- Sistema de pedidos
-- DTOs de Request e Response
-- Validação com Bean Validation
+- Validação de ownership
+- Gerenciamento de usuários, produtos e pedidos
+- Administração de usuários e permissões
+- Atualização segura de perfil
+- Sistema de carrinho
+- DTOs e validações
 - Tratamento global de exceções
-- Migrations com Flyway
-- Documentação com Swagger/OpenAPI
-- Ambiente Docker
-- Arquitetura em camadas
-- 51 testes automatizados com JUnit 5 e Mockito
+- Swagger/OpenAPI
+- 50+ testes automatizados com JUnit 5 e Mockito
 
 ---
 
-## 🧪 Qualidade e testes
+## 🐍 Conhecimentos complementares
 
-Prática com:
+Experiência prática com Python para desenvolvimento backend utilizando:
 
-- Testes unitários
-- Testes de regras de negócio
-- Validação de serviços
-- Manutenção de código orientado a testes
+- FastAPI
+- SQLAlchemy
+- Alembic
+- Pytest
+- APIs REST
 
 ---
 
 ## 🌍 Idiomas
 
 - Português — Nativo
-- Inglês — B2 (leitura técnica e comunicação)
+- Inglês — B2 (leitura técnica, documentação e comunicação sobre projetos)
 
 ---
 
 ## 🎯 Foco atual
 
-- Desenvolvimento backend com Java/Spring Boot e Python/FastAPI
+- Desenvolvimento Backend com Java/Spring Boot
 - Arquitetura de APIs
 - Segurança de aplicações
-- Banco de dados
 - Testes automatizados
-- Sistemas escaláveis
+- Banco de dados relacionais
+- Engenharia de software
 
 ---
 
