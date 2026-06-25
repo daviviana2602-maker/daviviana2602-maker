@@ -129,7 +129,7 @@ Experiência prática com Python para desenvolvimento backend utilizando:
 ## 🌍 Idiomas
 
 - Português — Nativo
-- Inglês — B2 (leitura técnica, documentação e comunicação sobre projetos)
+- Inglês — Intermediário-avançado (leitura técnica, documentação, e comunicação sobre projetos)
 
 ---
 
