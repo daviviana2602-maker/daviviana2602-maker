@@ -1,84 +1,99 @@
-<h1 align="center">👋 Olá, eu sou o Davi</h1>
+<h1 align="center">Davi Fonseca Viana</h1>
 
 <p align="center">
-Backend Developer focado em Java e Spring Boot<br/>
-Desenvolvimento de APIs REST seguras, testáveis e organizadas
+Backend Developer focado em Java, Spring Boot e construção de APIs REST seguras
 </p>
 
 <p align="center">
-  <a href="https://github.com/daviviana2602-maker">
-    <img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="mailto:daviviana2602@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/davi-viana-34a19b300/">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
+<a href="https://github.com/daviviana2602-maker">
+<img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="mailto:daviviana2602@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/davi-viana-34a19b300/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend com foco em construção de APIs REST utilizando Java, Spring Boot e bancos de dados relacionais.
+Desenvolvedor Backend focado em Java e Spring Boot.
 
-Experiência prática com:
+Desenvolvo APIs REST com foco em:
 
 - Arquitetura em camadas
-- Autenticação e autorização com JWT
-- Controle de acesso RBAC e ownership
-- Regras de negócio e validações
+- Segurança com JWT e Spring Security
+- Controle de acesso RBAC e Ownership
+- Banco de dados relacionais
 - Testes automatizados
 - Docker e ambientes containerizados
-- Documentação de APIs
+- Boas práticas de engenharia de software
 
-Busco evoluir continuamente em engenharia de software, segurança e construção de sistemas confiáveis.
+Tenho experiência prática criando sistemas completos, aplicando regras de negócio, validações, persistência de dados e integração contínua.
 
 ---
 
-## ⚙️ Tecnologias
+## 🛠️ Stack principal
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Java 21  
+Spring Boot  
+Spring Security  
+Spring Data JPA  
+Hibernate  
+JWT  
+REST APIs  
 
-### Banco de Dados
+### Banco de dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+PostgreSQL  
+Flyway  
+Redis  
 
-### Qualidade e Ferramentas
+### Qualidade
 
-![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+JUnit 5  
+Mockito  
+Testes automatizados  
+
+### DevOps / Ferramentas
+
+Docker  
+Docker Compose  
+Git  
+GitHub Actions  
+Swagger/OpenAPI
+
 
 ---
 
-# 🚀 Projetos em destaque
+# 🚀 Projetos
 
-## 🧠 DeepKai — Backend API
+
+## 🧠 DeepKai
+
+API backend de um fórum anônimo de discussões.
 
 Projeto privado desenvolvido em dupla.
 
-**Tecnologias**
+### Implementações
 
-Java 21 • Spring Boot • PostgreSQL • Docker • Flyway • GitHub Actions • JUnit / Mockito
-
-**Destaques**
-
-- API REST com arquitetura em camadas
-- Sistema anônimo de discussões com boards, threads e respostas
-- Autenticação e segurança com JWT
+- API REST com Spring Boot
+- Arquitetura em camadas
+- Sistema de boards, threads e respostas
+- Autenticação JWT
 - Hash seguro de senhas
-- Controle de permissões e regras de negócio
-- Sistema de moderação de conteúdo
-- Paginação e validações
-- Testes automatizados com JUnit 5 e Mockito
+- Controle de permissões
+- Moderação de conteúdo
+- Paginação
+- Cache com Redis
+- Testes automatizados
 - Pipeline CI com GitHub Actions
 - Documentação Swagger/OpenAPI
 
@@ -87,65 +102,57 @@ Java 21 • Spring Boot • PostgreSQL • Docker • Flyway • GitHub Actions 
 
 ## 🍰 CakeShop API
 
-API REST backend desenvolvida com Java e Spring Boot.
+API REST para gerenciamento de loja e pedidos.
 
-**🔗 Repositório**
-
+🔗 Repositório:
 https://github.com/daviviana2602-maker/CakeShop-API
 
 
-**Tecnologias**
-
-Java 21 • Spring Boot • PostgreSQL • JPA • Flyway • Docker • GitHub Actions • JUnit / Mockito
-
-**Destaques**
+### Implementações
 
 - Autenticação JWT
-- Controle de acesso RBAC (ADMIN / USER)
-- Validação de ownership
-- Gerenciamento de usuários, produtos e pedidos
-- Administração de usuários e permissões
-- Atualização segura de perfil
-- Sistema de carrinho
+- Spring Security
+- RBAC (ADMIN / USER)
+- Ownership de recursos
+- CRUDs completos
+- Usuários, produtos, carrinho e pedidos
+- Administração de usuários
+- Alteração segura de perfil
 - DTOs e validações
 - Tratamento global de exceções
-- Swagger/OpenAPI
-- 50+ testes automatizados com JUnit 5 e Mockito
+- Cache com Redis
+- 50+ testes automatizados
+
 
 ---
 
-## 🐍 Conhecimentos complementares
+## 🐍 Experiência anterior com Python
 
-Experiência prática com Python para desenvolvimento backend utilizando:
+Também possuo experiência com desenvolvimento backend utilizando:
 
+- Python
 - FastAPI
 - SQLAlchemy
 - Alembic
 - Pytest
-- APIs REST
+
 
 ---
 
-## 🌍 Idiomas
+## 📚 Atualmente estudando
 
-- Português — Nativo
-- Inglês — Intermediário-avançado (leitura técnica, documentação, e comunicação sobre projetos)
-
----
-
-## 🎯 Foco atual
-
-- Desenvolvimento Backend com Java/Spring Boot
-- Arquitetura de APIs
-- Segurança de aplicações
-- Testes automatizados
-- Banco de dados relacionais
 - Engenharia de software
+- Arquitetura backend
+- Segurança de APIs
+- Performance e escalabilidade
+- Cloud e infraestrutura
+
 
 ---
 
-## 📊 GitHub Stats
+## 🌎 Idiomas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+Português: Nativo
+
+Inglês: Intermediário-avançado  
+(leitura técnica, documentação e comunicação em projetos)
