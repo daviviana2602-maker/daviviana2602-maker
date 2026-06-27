@@ -50,7 +50,7 @@ Hibernate
 JWT  
 REST APIs  
 
-### Banco de dados
+### Banco de dados e Cache
 
 PostgreSQL  
 Flyway  
