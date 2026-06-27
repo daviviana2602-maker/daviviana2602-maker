@@ -42,7 +42,7 @@ Tenho experiência prática criando sistemas completos, aplicando regras de neg�
 
 ### Backend
 
-Java 21  
+Java 
 Spring Boot  
 Spring Security  
 Spring Data JPA  
@@ -92,8 +92,8 @@ Projeto privado desenvolvido em dupla.
 - Controle de permissões
 - Moderação de conteúdo
 - Paginação
-- Cache com Redis
-- Testes automatizados
+- Cache para Boards com Redis
+- 35 Testes automatizados
 - Pipeline CI com GitHub Actions
 - Documentação Swagger/OpenAPI
 
@@ -120,8 +120,8 @@ https://github.com/daviviana2602-maker/CakeShop-API
 - Alteração segura de perfil
 - DTOs e validações
 - Tratamento global de exceções
-- Cache com Redis
-- 50+ testes automatizados
+- Cache de produto com Redis
+- 48 testes automatizados
 
 
 ---
@@ -154,5 +154,5 @@ Também possuo experiência com desenvolvimento backend utilizando:
 
 Português: Nativo
 
-Inglês: Intermediário-avançado  
+Inglês: Intermediário
 (leitura técnica, documentação e comunicação em projetos)
