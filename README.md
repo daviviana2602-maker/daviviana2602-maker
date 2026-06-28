@@ -114,13 +114,13 @@ https://github.com/daviviana2602-maker/CakeShop-API
 - Spring Security
 - RBAC (ADMIN / USER)
 - Ownership de recursos
-- CRUDs completos
+- Verificação de email utilizando API externa (Resend) e tokens com expiração.
 - Usuários, produtos, carrinho e pedidos
 - Administração de usuários
 - Alteração segura de perfil
 - DTOs e validações
 - Tratamento global de exceções
-- Cache de produto com Redis
+- Cache de produtos com Redis
 - 48 testes automatizados
 
 
