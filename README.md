@@ -76,28 +76,6 @@ Swagger/OpenAPI
 # 🚀 Projetos
 
 
-## 🧠 DeepKai
-
-API backend de um fórum anônimo de discussões.
-
-Projeto privado desenvolvido em dupla.
-
-### Implementações
-
-- API REST com Spring Boot
-- Arquitetura em camadas
-- Sistema de boards, threads e respostas
-- Autenticação JWT
-- Hash seguro de senhas
-- Controle de permissões
-- Moderação de conteúdo
-- Paginação
-- Cache para Boards com Redis
-- 35 Testes automatizados
-- Pipeline CI com GitHub Actions
-- Documentação Swagger/OpenAPI
-
-
 ---
 
 ## 🍰 CakeShop API
@@ -110,18 +88,40 @@ https://github.com/daviviana2602-maker/CakeShop-API
 
 ### Implementações
 
-- Autenticação JWT
-- Spring Security
-- RBAC (ADMIN / USER)
-- Ownership de recursos
-- Verificação de email utilizando API externa (Resend) e tokens com expiração.
-- Usuários, produtos, carrinho e pedidos
-- Administração de usuários
-- Alteração segura de perfil
+- Autenticação JWT, RBAC (ADMIN / USER) e Ownership de recursos
+- Criação e edição de conta com verificação de email via integração com API externa (Resend) e tokens com expiração.
+- ULimite de requisições por tempo utilizando Redis e TTL (Rate limiting)
+- Administração para gerenciamento de usuários, ativação, desativação e alteração de permissões
 - DTOs e validações
 - Tratamento global de exceções
 - Cache de produtos com Redis
 - 48 testes automatizados
+- Pipeline de CI com GitHub Actions para execução de testes e build automatizado
+- Documentação Swagger/OpenAPI
+- Docker e migrations com Flyway
+
+
+---
+
+## 🧠 DeepKai
+
+API backend de um fórum anônimo de discussões.
+
+Projeto privado desenvolvido em dupla.
+
+### Implementações
+
+- API REST com Spring Boot
+- Desenvolvimento de Fórum anônimo de discussões com boards, threads e respostas
+- Sistema de boards, threads e respostas
+- Desenvolvimento colaborativo com Git, versionamento e integração com frontend.
+- Autenticação, hash de senhas e controle de permissões
+- Moderação de conteúdo
+- Implementação de cache com Redis para Boards e listagens com paginação
+- 35 Testes automatizados
+- Pipeline CI com GitHub Actions
+- Documentação Swagger/OpenAPI
+- Docker e migrations com Flyway
 
 
 ---
