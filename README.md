@@ -90,7 +90,7 @@ https://github.com/daviviana2602-maker/CakeShop-API
 
 - Autenticação JWT, RBAC (ADMIN / USER) e Ownership de recursos
 - Criação e edição de conta com verificação de email via integração com API externa (Resend) e tokens com expiração.
-- ULimite de requisições por tempo utilizando Redis e TTL (Rate limiting)
+- Limite de requisições por tempo utilizando Redis e TTL (Rate limiting)
 - Administração para gerenciamento de usuários, ativação, desativação e alteração de permissões
 - DTOs e validações
 - Tratamento global de exceções
