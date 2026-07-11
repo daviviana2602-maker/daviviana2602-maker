@@ -1,7 +1,11 @@
 <h1 align="center">Davi Fonseca Viana</h1>
 
+<h3 align="center">
+Backend Developer | Java & Spring Boot
+</h3>
+
 <p align="center">
-Backend Developer focado em Java, Spring Boot e construção de APIs REST seguras
+Construindo APIs REST seguras, sistemas orientados a domínio e aplicações backend escaláveis.
 </p>
 
 <p align="center">
@@ -10,7 +14,7 @@ Backend Developer focado em Java, Spring Boot e construção de APIs REST segura
 </a>
 
 <a href="mailto:daviviana2602@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://linkedin.com/in/davi-viana-34a19b300/">
@@ -20,55 +24,59 @@ Backend Developer focado em Java, Spring Boot e construção de APIs REST segura
 
 ---
 
-## 👨‍💻 Sobre mim
+# 👨‍💻 Sobre mim
 
-Desenvolvedor Backend focado em Java e Spring Boot.
+Desenvolvedor Backend focado em **Java e Spring Boot**, criando APIs REST com foco em segurança, organização de código e regras de negócio.
 
-Desenvolvo APIs REST com foco em:
+Experiência prática com:
 
-- Arquitetura em camadas
-- Segurança com JWT e Spring Security
-- Controle de acesso RBAC e Ownership
-- Banco de dados relacionais
+- Spring Security e JWT
+- RBAC e validação de ownership
+- PostgreSQL e modelagem relacional
+- Redis para cache e controle de requisições
 - Testes automatizados
-- Docker e ambientes containerizados
-- Boas práticas de engenharia de software
+- Docker e CI/CD
+- Integração com APIs externas
 
-Tenho experiência prática criando sistemas completos, aplicando regras de negócio, validações, persistência de dados e integração contínua.
+Busco construir sistemas próximos de aplicações reais, aplicando boas práticas de engenharia de software.
 
 ---
 
-## 🛠️ Stack principal
+# 🚀 Stack Principal
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk">
+<img src="https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot">
+<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql">
+<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker">
+<img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis">
+
+</div>
+
 
 ### Backend
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- Hibernate
+- JWT
+- REST APIs
 
-Java 
-Spring Boot  
-Spring Security  
-Spring Data JPA  
-Hibernate  
-JWT  
-REST APIs  
+### Banco de dados
+- PostgreSQL
+- Flyway
+- Redis
 
-### Banco de dados e Cache
-
-PostgreSQL  
-Flyway  
-Redis  
-
-### Qualidade
-
-JUnit 5  
-Mockito  
-Testes automatizados  
-
-### DevOps / Ferramentas
-
-Docker  
-Docker Compose  
-Git  
-GitHub Actions  
-Swagger/OpenAPI
+### Qualidade e ferramentas
+- JUnit 5
+- Mockito
+- Docker
+- Docker Compose
+- Git
+- GitHub Actions
+- Swagger/OpenAPI
 
 
 ---
@@ -76,83 +84,73 @@ Swagger/OpenAPI
 # 🚀 Projetos
 
 
+## 🏦 AtlasBank API
+
+Simulação de uma plataforma bancária desenvolvida com Java e Spring Boot.
+
+Projeto focado em segurança, operações financeiras e regras de negócio.
+
+🔗 Repositório:
+https://github.com/daviviana2602-maker/AtlasBank
+
+
+### Principais implementações
+
+- API REST organizada por features e domínios
+- Autenticação completa com JWT, Access Token e Refresh Token
+- Revogação de tokens, logout e invalidação após alterações sensíveis
+- Controle de acesso com RBAC e validação de ownership
+- Sistema de contas com senha de transação separada da senha de perfil
+- Sistema interno de Pix simulado entre contas
+- Ledger financeiro para rastreamento de movimentações
+- Depósitos e operações financeiras
+- Verificação de email e alteração de dados sensíveis via tokens
+- Integração com Resend para emails transacionais personalizados
+- Schedulers para limpeza automática de dados temporários
+- Tratamento global de exceções
+- Migrations com Flyway
+- Docker e Docker Compose
+- Documentação Swagger/OpenAPI
+
+
 ---
 
 ## 🍰 CakeShop API
 
-API REST para gerenciamento de loja e pedidos.
+API REST para gerenciamento de loja, produtos e pedidos.
 
 🔗 Repositório:
 https://github.com/daviviana2602-maker/CakeShop-API
 
 
-### Implementações
+### Principais implementações
 
-- Autenticação JWT, RBAC (ADMIN / USER) e Ownership de recursos
-- Criação e edição de conta com verificação de email via integração com API externa (Resend) e tokens com expiração.
-- Limite de requisições por tempo utilizando Redis e TTL (Rate limiting)
-- Administração para gerenciamento de usuários, ativação, desativação e alteração de permissões
+- Autenticação JWT com Access Token e Refresh Token
+- RBAC (ADMIN / USER) e controle de ownership
+- Verificação de email com integração externa (Resend)
+- Rate limiting utilizando Redis e TTL
+- Cache de produtos com Redis
+- Gerenciamento de usuários e permissões
 - DTOs e validações
 - Tratamento global de exceções
-- Cache de produtos com Redis
-- 48 testes automatizados
-- Pipeline de CI com GitHub Actions para execução de testes e build automatizado
-- Documentação Swagger/OpenAPI
-- Docker e migrations com Flyway
-
-
----
-
-## 🧠 DeepKai
-
-API backend de um fórum anônimo de discussões.
-
-Projeto privado desenvolvido em dupla.
-
-### Implementações
-
-- API REST com Spring Boot
-- Desenvolvimento de Fórum anônimo de discussões com boards, threads e respostas
-- Sistema de boards, threads e respostas
-- Desenvolvimento colaborativo com Git, versionamento e integração com frontend.
-- Autenticação, hash de senhas e controle de permissões
-- Moderação de conteúdo
-- Implementação de cache com Redis para Boards e listagens com paginação
-- 35 Testes automatizados
+- 48 testes automatizados com JUnit 5 e Mockito
 - Pipeline CI com GitHub Actions
-- Documentação Swagger/OpenAPI
-- Docker e migrations com Flyway
+- Swagger/OpenAPI
+- Docker e Flyway
 
 
 ---
 
-## 🐍 Experiência anterior com Python
+# 📚 Atualmente estudando
 
-Também possuo experiência com desenvolvimento backend utilizando:
-
-- Python
-- FastAPI
-- SQLAlchemy
-- Alembic
-- Pytest
-
+Análise e Desenvolvimento de Sistemas — UNIFRAN (previsão de encerramento - Agosto de 2028)
+- Estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
 
 ---
 
-## 📚 Atualmente estudando
+# 🌎 Idiomas
 
-- Engenharia de software
-- Arquitetura backend
-- Segurança de APIs
-- Performance e escalabilidade
-- Cloud e infraestrutura
+🇧🇷 Português — Nativo
 
-
----
-
-## 🌎 Idiomas
-
-Português: Nativo
-
-Inglês: Intermediário
-(leitura técnica, documentação e comunicação em projetos)
+🇺🇸 Inglês — Intermediário/Avançado  
+(leitura técnica, documentação e comunicação sobre projetos)
