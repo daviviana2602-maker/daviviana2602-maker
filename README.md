@@ -28,16 +28,6 @@ Construindo APIs REST seguras, sistemas orientados a domínio e aplicações bac
 
 Desenvolvedor Backend focado em **Java e Spring Boot**, criando APIs REST com foco em segurança, organização de código e regras de negócio.
 
-Experiência prática com:
-
-- Spring Security e JWT
-- RBAC e validação de ownership
-- PostgreSQL e modelagem relacional
-- Redis para cache e controle de requisições
-- Testes automatizados
-- Docker e CI/CD
-- Integração com APIs externas
-
 Busco construir sistemas próximos de aplicações reais, aplicando boas práticas de engenharia de software.
 
 ---
