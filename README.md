@@ -114,19 +114,17 @@ https://github.com/daviviana2602-maker/AtlasBank
 
 - API REST organizada por features
 - Autenticação completa com JWT, Access Token e Refresh Token
-- Revogação de tokens, logout e invalidação após alterações sensíveis
+- Revogação de tokens, logout e invalidação automática após alterações sensíveis
 - Controle de acesso com RBAC e validação de ownership
 - Sistema de contas com senha de transação separada da senha de perfil
 - Sistema interno de Pix simulado entre contas
 - Ledger financeiro para rastreamento de movimentações
-- Depósitos e operações financeiras
 - Verificação de email e alteração de dados sensíveis via tokens
-- Integração com Resend para emails transacionais personalizados
+- Integração com Resend para emails personalizados
 - Schedulers para limpeza automática de dados temporários
 - Tratamento global de exceções
-- Migrations com Flyway
-- Docker e Docker Compose
-- Documentação Swagger/OpenAPI
+- Docker e Flyway
+- Swagger/OpenAPI
 
 
 ---
