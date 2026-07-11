@@ -132,7 +132,7 @@ https://github.com/daviviana2602-maker/AtlasBank
 
 # 📚 Atualmente estudando
 
-Análise e Desenvolvimento de Sistemas — UNIFRAN (previsão de encerramento - Agosto de 2028)
+Análise e Desenvolvimento de Sistemas — UNIFRAN (Conclusão prevista: 08/2028)
 
 Com estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
 
