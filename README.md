@@ -67,13 +67,13 @@ Busco construir sistemas próximos de aplicações reais, aplicando boas prátic
 ### Banco de dados
 - PostgreSQL
 - Flyway
-- Redis
 
 ### Qualidade e ferramentas
 - JUnit 5
 - Mockito
 - Docker
 - Docker Compose
+- Redis
 - Git
 - GitHub Actions
 - Swagger/OpenAPI
@@ -82,38 +82,6 @@ Busco construir sistemas próximos de aplicações reais, aplicando boas prátic
 ---
 
 # 🚀 Projetos
-
-
-## 🏦 AtlasBank API
-
-Simulação de uma plataforma bancária desenvolvida com Java e Spring Boot.
-
-Projeto focado em segurança, operações financeiras e regras de negócio.
-
-🔗 Repositório:
-https://github.com/daviviana2602-maker/AtlasBank
-
-
-### Principais implementações
-
-- API REST organizada por features e domínios
-- Autenticação completa com JWT, Access Token e Refresh Token
-- Revogação de tokens, logout e invalidação após alterações sensíveis
-- Controle de acesso com RBAC e validação de ownership
-- Sistema de contas com senha de transação separada da senha de perfil
-- Sistema interno de Pix simulado entre contas
-- Ledger financeiro para rastreamento de movimentações
-- Depósitos e operações financeiras
-- Verificação de email e alteração de dados sensíveis via tokens
-- Integração com Resend para emails transacionais personalizados
-- Schedulers para limpeza automática de dados temporários
-- Tratamento global de exceções
-- Migrations com Flyway
-- Docker e Docker Compose
-- Documentação Swagger/OpenAPI
-
-
----
 
 ## 🍰 CakeShop API
 
@@ -141,10 +109,44 @@ https://github.com/daviviana2602-maker/CakeShop-API
 
 ---
 
+
+## 🏦 AtlasBank API
+
+Simulação de uma plataforma bancária desenvolvida com Java e Spring Boot.
+
+Projeto focado em segurança, operações financeiras e regras de negócio.
+
+🔗 Repositório:
+https://github.com/daviviana2602-maker/AtlasBank
+
+
+### Principais implementações
+
+- API REST organizada por features
+- Autenticação completa com JWT, Access Token e Refresh Token
+- Revogação de tokens, logout e invalidação após alterações sensíveis
+- Controle de acesso com RBAC e validação de ownership
+- Sistema de contas com senha de transação separada da senha de perfil
+- Sistema interno de Pix simulado entre contas
+- Ledger financeiro para rastreamento de movimentações
+- Depósitos e operações financeiras
+- Verificação de email e alteração de dados sensíveis via tokens
+- Integração com Resend para emails transacionais personalizados
+- Schedulers para limpeza automática de dados temporários
+- Tratamento global de exceções
+- Migrations com Flyway
+- Docker e Docker Compose
+- Documentação Swagger/OpenAPI
+
+
+---
+
+
 # 📚 Atualmente estudando
 
 Análise e Desenvolvimento de Sistemas — UNIFRAN (previsão de encerramento - Agosto de 2028)
-- Estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
+
+Com estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
 
 ---
 
