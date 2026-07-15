@@ -1,146 +1,185 @@
-<h1 align="center">Davi Fonseca Viana</h1>
-
-<h3 align="center">
-Backend Developer | Java & Spring Boot
-</h3>
-
-<p align="center">
-Construindo APIs REST seguras, sistemas orientados a domínio e aplicações backend escaláveis.
-</p>
-
-<p align="center">
-<a href="https://github.com/daviviana2602-maker">
-<img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="mailto:daviviana2602@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://linkedin.com/in/davi-viana-34a19b300/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-</p>
-
----
-
-# 👨‍💻 Sobre mim
-
-Desenvolvedor Backend focado em **Java e Spring Boot**, criando APIs REST com foco em segurança, organização de código e regras de negócio.
-
-Busco construir sistemas próximos de aplicações reais, aplicando boas práticas de engenharia de software.
-
----
-
-# 🚀 Stack Principal
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/Java-21-orange?style=for-the-badge&logo=openjdk">
-<img src="https://img.shields.io/badge/Spring%20Boot-3-6DB33F?style=for-the-badge&logo=springboot">
-<img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=for-the-badge&logo=postgresql">
-<img src="https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker">
-<img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=for-the-badge&logo=redis">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6DB33F&height=230&section=header&text=Davi%20Fonseca%20Viana&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+
+<a href="https://github.com/daviviana2602-maker">
+<img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="mailto:daviviana2602@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-6DB33F?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://linkedin.com/in/davi-viana-34a19b300/">
+<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=daviviana2602-maker&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
 
 </div>
 
+<br/>
 
-### Backend
+## 👨‍💻 Sobre mim
+
+Desenvolvedor Backend focado em **Java e Spring Boot**, construindo APIs REST com atenção a segurança, organização de código e regras de negócio. Meus projetos vão além do CRUD básico: incluem autenticação JWT completa, controle de acesso por papéis (RBAC), cache e rate limiting com Redis, e cobertura de testes automatizados — sempre buscando aproximar cada aplicação de um cenário de produção real.
+
+Também desenvolvo o frontend das minhas APIs em **Vue.js 3 + TypeScript**, o que me permite validar o sistema de ponta a ponta e entender o consumo da API pelo lado do cliente.
+
+---
+
+## 🚀 Stack Principal
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,redis,git,githubactions,vue,ts,html,css&theme=dark" />
+</div>
+
+<br/>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+**🔧 Backend**
 - Java
 - Spring Boot
-- Spring Security
+- API REST
 - Spring Data JPA
-- Hibernate
-- JWT
-- REST APIs
 
-### Banco de dados
+</td>
+<td valign="top" width="33%">
+
+**🔐 Segurança**
+- Spring Security
+- JWT (Access + Refresh)
+- RBAC
+- Hash de senhas
+
+</td>
+<td valign="top" width="33%">
+
+**🧪 Testes**
+- JUnit 5
+- Mockito
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**🗄️ Banco de Dados**
 - PostgreSQL
 - Flyway
 
-### Qualidade e ferramentas
-- JUnit 5
-- Mockito
-- Docker
-- Docker Compose
-- Redis
-- Git
-- GitHub Actions
-- Swagger/OpenAPI
+</td>
+<td valign="top">
 
+**🛠️ Ferramentas**
+- Docker / Docker Compose
+- Redis
+- Git / GitHub Actions
+- Swagger / OpenAPI
+
+</td>
+<td valign="top">
+
+**🎨 Frontend**
+- Vue.js 3
+- TypeScript
+- HTML5 / CSS3
+- Axios
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Projetos
+## 🚀 Projetos em Destaque
 
-## 🍰 CakeShop API
+<div align="center">
 
-API REST para gerenciamento de loja, produtos e pedidos.
+### 🍰 CakeShop API
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=daviviana2602-maker&repo=CakeShop-API&theme=transparent&title_color=6DB33F&text_color=E4E4E4&icon_color=ED8B00&border_color=6DB33F" />
 
-🔗 Repositório:
-https://github.com/daviviana2602-maker/CakeShop-API
+</div>
 
+API REST para gerenciamento de loja, produtos e pedidos, com frontend próprio em Vue.js 3 consumindo a aplicação de ponta a ponta.
 
-### Principais implementações
+`Java 21` `Spring Boot` `JWT` `RBAC` `Redis` `PostgreSQL` `Docker` `GitHub Actions`
 
 - Autenticação JWT com Access Token e Refresh Token
-- RBAC (ADMIN / USER) e controle de ownership
-- Verificação de email com integração externa (Resend)
-- Rate limiting utilizando Redis e TTL
-- Cache de produtos com Redis
-- Gerenciamento de usuários e permissões
-- DTOs e validações
-- Tratamento global de exceções
-- 48 testes automatizados com JUnit 5 e Mockito
-- Pipeline CI com GitHub Actions
-- Swagger/OpenAPI
-- Docker e Flyway
+- RBAC (ADMIN / USER) e controle de ownership por recurso
+- Verificação de e-mail via integração externa (Resend) com tokens de expiração
+- Rate limiting com Redis e TTL, e cache de produtos/listagens paginadas
+- Tratamento global de exceções e gerenciamento de usuários
+- 53 testes automatizados com JUnit 5 e Mockito
+- Pipeline de CI com GitHub Actions, documentação Swagger/OpenAPI, Docker e Flyway
 
+🔗 [github.com/daviviana2602-maker/CakeShop-API](https://github.com/daviviana2602-maker/CakeShop-API)
 
----
+<br/>
 
+<div align="center">
 
-## 🏦 AtlasBank API
+### 🏦 AtlasBank API
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=daviviana2602-maker&repo=AtlasBank&theme=transparent&title_color=6DB33F&text_color=E4E4E4&icon_color=ED8B00&border_color=6DB33F" />
 
-Simulação de uma plataforma bancária desenvolvida com Java e Spring Boot.
+</div>
 
-Projeto focado em segurança, operações financeiras e regras de negócio.
+Simulação de plataforma bancária organizada por features, com foco em segurança e regras de negócio financeiras.
 
-🔗 Repositório:
-https://github.com/daviviana2602-maker/AtlasBank
+`Java 21` `Spring Boot` `JWT` `RBAC` `Schedulers` `PostgreSQL` `Docker`
 
+- Sistema interno de Pix simulado, com transferências e validações entre contas
+- Ledger financeiro para histórico e rastreamento completo de movimentações
+- Autenticação completa com JWT, logout e invalidação automática após alterações sensíveis
+- Senha de transação separada da senha de perfil, com autorização baseada em identidade
+- Integração com Resend para e-mails personalizados por fluxo
+- Schedulers para limpeza automática de tokens expirados e dados temporários
+- Documentação Swagger/OpenAPI, Docker e migrations com Flyway
 
-### Principais implementações
-
-- API REST organizada por features
-- Autenticação completa com JWT, Access Token e Refresh Token
-- Revogação de tokens, logout e invalidação automática após alterações sensíveis
-- Controle de acesso com RBAC e validação de ownership
-- Sistema de contas com senha de transação separada da senha de perfil
-- Sistema interno de Pix simulado entre contas
-- Ledger financeiro para rastreamento de movimentações
-- Verificação de email e alteração de dados sensíveis via tokens
-- Integração com Resend para emails personalizados
-- Schedulers para limpeza automática de dados temporários
-- Tratamento global de exceções
-- Docker e Flyway
-- Swagger/OpenAPI
-
+🔗 [github.com/daviviana2602-maker/AtlasBank](https://github.com/daviviana2602-maker/AtlasBank)
 
 ---
 
+## 📊 Estatísticas do GitHub
 
-# 📚 Atualmente estudando
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=transparent&title_color=6DB33F&icon_color=ED8B00&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=transparent&title_color=6DB33F&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
+</div>
 
-Análise e Desenvolvimento de Sistemas — UNIFRAN (Conclusão prevista: 08/2028)
-
-Com estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=daviviana2602-maker&theme=dark&background=00000000&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F&border=6DB33F" />
+</div>
 
 ---
 
-# 🌎 Idiomas
+## 📚 Formação
 
-🇧🇷 Português — Nativo
+**Análise e Desenvolvimento de Sistemas** — UNIFRAN *(conclusão prevista: 08/2028)*
+Estudos focados em Engenharia de Software, Desenvolvimento Backend, APIs REST, bancos de dados relacionais e arquitetura de sistemas.
 
-🇺🇸 Inglês — Intermediário/Avançado  
-(leitura técnica, documentação e comunicação sobre projetos)
+---
+
+## 🌎 Idiomas
+
+<img src="https://img.shields.io/badge/Português-Nativo-6DB33F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Inglês-Intermediário%2FAvançado-6DB33F?style=for-the-badge">
+
+*(leitura técnica, documentação e comunicação sobre projetos)*
+
+---
+
+<div align="center">
+
+### 📫 Vamos conversar?
+
+Estou em busca de uma oportunidade como **desenvolvedor júnior / estagiário backend**. Se meu trabalho fizer sentido para o seu time, ficarei feliz em conversar.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0D1117&height=100&section=footer" width="100%"/>
+
+</div>
