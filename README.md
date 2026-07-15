@@ -16,8 +16,6 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+e+cache+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=daviviana2602-maker&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
-
 </div>
 
 <br/>
@@ -142,19 +140,6 @@ Simulação de plataforma bancária organizada por features, com foco em seguran
 - Documentação Swagger/OpenAPI, Docker e migrations com Flyway
 
 🔗 [github.com/daviviana2602-maker/AtlasBank](https://github.com/daviviana2602-maker/AtlasBank)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=transparent&title_color=6DB33F&icon_color=ED8B00&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=transparent&title_color=6DB33F&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=daviviana2602-maker&theme=dark&background=00000000&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F&border=6DB33F" />
-</div>
 
 ---
 
