@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6DB33F&height=230&section=header&text=Davi%20Fonseca%20Viana&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:6DB33F&height=230&section=header&text=Davi%20Fonseca%20Viana&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20e%20Spring%20Boot&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/daviviana2602-maker">
 <img src="https://img.shields.io/badge/GitHub-Portfólio-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+e+cache+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+e+Cache+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
 
 </div>
 
@@ -168,3 +168,4 @@ Estou em busca de uma oportunidade como **desenvolvedor júnior / estagiário ba
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
+
