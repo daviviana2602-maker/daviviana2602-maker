@@ -135,19 +135,6 @@ Simulação de plataforma bancária organizada por features, com foco em seguran
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=daviviana2602-maker&show_icons=true&theme=transparent&title_color=6DB33F&icon_color=ED8B00&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviviana2602-maker&layout=compact&theme=transparent&title_color=6DB33F&text_color=E4E4E4&border_color=6DB33F&hide_border=false" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=daviviana2602-maker&theme=dark&background=00000000&ring=6DB33F&fire=ED8B00&currStreakLabel=6DB33F&border=6DB33F" />
-</div>
-
----
-
 ## 📚 Formação
 
 **Análise e Desenvolvimento de Sistemas** — UNIFRAN *(conclusão prevista: 08/2028)*
