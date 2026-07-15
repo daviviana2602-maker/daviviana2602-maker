@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=API+REST+com+JWT+(Access+%2B+Refresh+Token);RBAC+%2B+Ownership+%2B+Rate+Limiting+e+cache+com+Redis;Testes+automatizados+com+JUnit+5+e+Mockito;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=daviviana2602-maker&style=for-the-badge&color=6DB33F&label=PROFILE+VIEWS" />
 
