@@ -52,6 +52,7 @@ Também desenvolvo o frontend das minhas APIs em **Vue.js 3 + TypeScript**, o qu
 **🔐 Segurança**
 - Spring Security
 - JWT (Access + Refresh)
+- Cookies HttpOnly/SameSite
 - RBAC
 - Hash de senhas
 
