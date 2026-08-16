@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=APIs+REST+completas;JWT+com+Access+%2B+Refresh+Token+e+Cookies+HttpOnly+%2F+SameSite;RBAC+%2B+Ownership;Rate+Limiting+%2B+Cache+com+Redis;Testes+automatizados+com+JUnit+5+,+Mockito+e+Testcontainers;Docker+%2B+PostgreSQL/Flyway+%2B+GitHub+Actions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=800&color=6DB33F&center=true&vCenter=true&width=650&lines=APIs+REST+completas;JWT+com+Access+%2B+Refresh+Token+e+Cookies+HttpOnly+%2F+SameSite;RBAC+%2B+Ownership;Rate+Limiting+%2B+Cache+com+Redis;Testes+automatizados+com+JUnit+5,+Mockito+e+Testcontainers;Docker+%2B+PostgreSQL+%2B+GitHub+Actions" alt="Typing SVG" />
 
 </div>
 
