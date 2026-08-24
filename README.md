@@ -123,7 +123,6 @@ API REST para gerenciamento de loja, produtos e pedidos, com frontend próprio e
 - API REST em Java 21 e Spring Boot, com frontend em Vue.js 3, TypeScript, HTML e CSS consumindo integralmente o backend
 - Cache com Redis para reduzir consultas repetidas ao banco em listagens paginadas e rate limiting via TTL
 - Autenticação com JWT (Access Token curto e Refresh Token de longa duração) e controle de autorização por recurso (ownership)
-- Rate limiting com Redis e TTL, e cache de produtos/listagens paginadas
 - Gerenciamento de usuários e tratamento global de exceções com 25 códigos de erro padronizados, simplificando o consumo da API pelo frontend
 - 53 testes automatizados com JUnit 5 e Mockito
 - Pipeline de CI com GitHub Actions, documentação Swagger/OpenAPI, Docker/Docker compose e Flyway
