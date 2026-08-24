@@ -22,15 +22,14 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando autenticação e autorização, bancos de dados relacionais, testes automatizados, containerização e integração contínua.
-Desenvolvimento de projetos documentados, incluindo aplicações completas com frontend integrado para validação de ponta a ponta.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento de APIs REST com Java e Spring Boot, aplicando autenticação e autorização, bancos de dados relacionais, cache, testes automatizados, mensageria, containerização e integração contínua. Desenvolvimento de projetos documentados, incluindo aplicações completas com frontend integrado para validação de ponta a ponta.
 
 ---
 
 ## 🚀 Stack Principal
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,redis,git,githubactions,vue,ts,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,redis,rabbitmq,git,githubactions,vue,ts,html,css&theme=dark" />
 </div>
 
 <br/>
