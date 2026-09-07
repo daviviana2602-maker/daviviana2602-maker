@@ -104,7 +104,8 @@ Simulação de plataforma bancária organizada por features, com foco em seguran
 
 - API REST em Java 21 e Spring Boot organizada por features
 - Sistema interno de Pix simulado, com validações, transferências entre contas e registro de operações financeiras
-- Processamento assíncrono de emails personalizados com RabbitMQ e Spring AMQP, utilizando queues, exchanges, routing keys e consumers para desacoplar o envio de emails do fluxo principal da aplicação
+- Processamento assíncrono de emails personalizados com RabbitMQ e Spring AMQP, utilizando queues, exchanges, routing keys, bindings e consumers para desacoplar o envio de emails do fluxo principal da aplicação
+- Arquitetura de mensageria com RabbitMQ e Spring AMQP, incluindo retry com backoff, Dead Letter Queue (DLQ) e recovery automático de mensagens para reprocessamento após falhas prolongadas do serviço externo (Resend)
 - Controle de concorrência com locks pessimistas no PostgreSQL, garantindo consistência em transferências simultâneas
 - Testes de concorrência com múltiplas threads e PostgreSQL real utilizando Testcontainers
 - Modelagem de ledger para histórico financeiro completo e rastreamento de movimentações
