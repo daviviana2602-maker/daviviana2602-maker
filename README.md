@@ -104,13 +104,12 @@ Simulação de plataforma bancária organizada por features, com foco em seguran
 
 - API REST em Java 21 e Spring Boot organizada por features
 - Sistema interno de Pix simulado, com validações, transferências entre contas e registro de operações financeiras
-- Processamento assíncrono de emails personalizados com RabbitMQ e Spring AMQP, utilizando queues, exchanges, routing keys, bindings e consumers para desacoplar o envio do fluxo principal, com retry e backoff, Dead Letter Queue (DLQ) e recovery automático de mensagens para reprocessamento após falhas prolongadas do serviço externo (Resend)
+- Mensageria assíncrona com RabbitMQ e Spring AMQP, utilizando queues, exchanges, routing keys, bindings e consumers, com retry configurado com backoff, Dead Letter Queue (DLQ) e recovery automático para reprocessamento de mensagens após falhas prolongadas do serviço externo (Resend)
 - Controle de concorrência com locks pessimistas no PostgreSQL, garantindo consistência em transferências simultâneas
 - Testes de concorrência com múltiplas threads e PostgreSQL real utilizando Testcontainers
 - Modelagem de ledger para histórico financeiro completo e rastreamento de movimentações
-- Autenticação com JWT (Access e Refresh Tokens) mitigando XSS/CSRF via Cookies HttpOnly/SameSite, com logout e invalidação automática de sessões após alterações sensíveis
-- Autorização baseada em claims do Access Token, impedindo acesso indevido a recursos de terceiros
-- Emails personalizados por fluxo e schedulers para limpeza automática de tokens expirados e dados temporários
+- Autenticação com JWT (Access e Refresh Tokens) utilizando Cookies HttpOnly e SameSite para proteção dos tokens, com logout e invalidação automática de sessões após alterações sensíveis
+- Schedulers para manutenção automática do sistema, incluindo recovery de mensagens da DLQ e limpeza de usuários, contas, senhas não verificadas e tokens expirados
 - Documentação Swagger/OpenAPI, Docker/Docker compose e Flyway
 
 🔗 [github.com/daviviana2602-maker/AtlasBank](https://github.com/daviviana2602-maker/AtlasBank)
@@ -122,7 +121,7 @@ API REST para gerenciamento de loja, produtos e pedidos, com frontend próprio e
 
 - API REST em Java 21 e Spring Boot, com frontend em Vue.js 3, TypeScript, HTML e CSS consumindo integralmente o backend
 - Cache com Redis para reduzir consultas repetidas ao banco em listagens paginadas e rate limiting via TTL
-- Autenticação com JWT (Access Token curto e Refresh Token de longa duração) e controle de autorização por recurso (ownership)
+- Autorização baseada em claims do Access Token, impedindo acesso indevido a recursos de terceiros e controle de autorização por recurso (ownership)
 - Gerenciamento de usuários e tratamento global de exceções com 25 códigos de erro padronizados, simplificando o consumo da API pelo frontend
 - 53 testes automatizados com JUnit 5 e Mockito
 - Pipeline de CI com GitHub Actions, documentação Swagger/OpenAPI, Docker/Docker compose e Flyway
