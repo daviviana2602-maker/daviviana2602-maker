@@ -23,6 +23,7 @@
 ## 👨‍💻 Sobre mim
 
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end Java/Spring Boot. Desenvolvo APIs REST completas aplicando autenticação e autorização, mensageria assíncrona, cache e testes automatizados, com dois projetos autorais documentados, incluindo um com frontend integrado em Vue.js para validação de ponta a ponta.
+
 ---
 
 ## 🚀 Stack Principal
