@@ -22,7 +22,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em back-end Java/Spring Boot. Desenvolvo APIs REST completas aplicando autenticação e autorização, mensageria assíncrona, cache e testes automatizados, com dois projetos autorais documentados, incluindo um com frontend integrado em Vue.js para validação de ponta a ponta.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend Java e Spring Boot. Desenvolvo sistemas de ponta a ponta com foco em segurança, consistência de dados, integrações, otimização e testes. Busco minha primeira oportunidade profissional em desenvolvimento de software.
 
 ---
 
@@ -104,7 +104,7 @@ Simulação de plataforma bancária organizada por features, com foco em seguran
 
 - API REST em Java 21 e Spring Boot organizada por features
 - Sistema interno de Pix simulado, com validações, transferências entre contas e registro de operações financeiras
-- Mensageria assíncrona com RabbitMQ e Spring AMQP, utilizando queues, exchanges, routing keys, bindings e consumers, com retry configurado com backoff, Dead Letter Queue (DLQ) e recovery automático para reprocessamento de mensagens após falhas prolongadas do serviço externo (Resend)
+- Mensageria assíncrona com RabbitMQ e Spring AMQP, utilizando retry configurado com backoff, queues e Dead Letter Queues (DLQ) com recovery automático para reprocessamento de mensagens após falhas prolongadas do serviço externo (Resend).
 - Controle de concorrência com locks pessimistas no PostgreSQL, garantindo consistência em transferências simultâneas
 - Testes de concorrência com múltiplas threads e PostgreSQL real utilizando Testcontainers
 - Modelagem de ledger para histórico financeiro completo e rastreamento de movimentações
